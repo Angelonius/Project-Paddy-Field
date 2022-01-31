@@ -6,3 +6,5 @@ Link to the original Tondo mod: https://github.com/Nirekin-sys/Unciv-Tondo
 Link to Project Tondo: https://github.com/Angelonius/Project-Tondo
 
 v.1.1: Updated the Wet Farm's tileset.
+
+v.1.2: Updated the Wet Farm.
