@@ -1,0 +1,27 @@
+
+game.png
+size: 256, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/City center
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Wet Farm
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wet Farm
+  rotate: false
+  xy: 220, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
