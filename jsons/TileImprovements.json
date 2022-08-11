@@ -17,7 +17,7 @@
 	
 	// Unbuildable improvements
 	{
-		"name": "City center",
+		"name": "Plaza Mayor",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": ["Unpillagable", "Irremovable", "Unbuildable"],
                 "civilopediaText": [
