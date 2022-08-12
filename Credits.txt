@@ -1,3 +1,5 @@
 Here are all the sources for the various image files used in this mod:
 
 1. The Discord user known as Arccc#2241 for providing the tile for the Wet Farm.
+2. The Discord User known as Huymn#4580 for showing me how to run with sprites.
+3. Caballero-Arepa for teaching me how to coded the City Center properly: https://github.com/Caballero-Arepa
