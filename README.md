@@ -8,3 +8,5 @@ Link to Project Tondo: https://github.com/Angelonius/Project-Tondo
 v.1.1: Updated the Wet Farm's tileset.
 
 v.1.2: Updated the Wet Farm.
+
+v.1.3: Horses can now be placed on Floodplains and the City Center finally returns as the Plaza Mayor!
