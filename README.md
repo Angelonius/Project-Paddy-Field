@@ -10,3 +10,5 @@ v.1.1: Updated the Wet Farm's tileset.
 v.1.2: Updated the Wet Farm.
 
 v.1.3: Horses can be placed on Floodplains again and the City Center finally returns as the Plaza Mayor!
+
+v.1.4: Resources have been given an overhaul.
