@@ -27,7 +27,7 @@
 		"food": 1,
 		"improvement": "Camp",
 		"improvementStats": {"production": 1},
-		"uniques": ["Generated on every [8] tiles <in [Tundra] [Forest] tiles>",
+		"uniques": ["Generated on every [8] tiles <in [{Tundra} {Forest}] tiles>",
 					"Generated on every [12] tiles <in [{Featureless} {Tundra}] tiles>",
 					"Generated on every [25] tiles <in [{Plains} {Forest}] tiles> <in tiles without [Hill]>",
 					"Generated on every [25] tiles <in [{Grassland} {Forest}] tiles> <in tiles without [Hill]>",
