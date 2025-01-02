@@ -7,8 +7,8 @@
 		"food": 1,
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
-		"uniques": ["Generated on every [18] tiles <in [Featureless] [Grassland] tiles>",
-					"Generated on every [22] tiles <in [Featureless] [Grassland] tiles> <in [Hill] Regions>"]
+		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
+					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 	},
 	{
 		"name": "Sheep",
